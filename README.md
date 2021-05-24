@@ -1,4 +1,4 @@
-# Understanding the timing of eruption end using a machine learning approach to classification of seismic time series
+# Understanding the timing of eruption end using a machine learning approach to classification of seismic time series ![Badge](https://img.shields.io/badge/Python-V3.9-blue)
 
 `A GUI project completed using a machine learning approach by M. Madumitha, V. Pravarsha, J. Naveen and P. Raghavendra.`
 
