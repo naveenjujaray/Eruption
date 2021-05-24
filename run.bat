@@ -1,0 +1,2 @@
+python Eruption.py
+pause

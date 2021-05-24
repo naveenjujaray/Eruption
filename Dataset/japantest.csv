@@ -1,0 +1,8 @@
+Date,Time,Latitude,Longitude,Type,Depth,depthError,Depth Seismic Stations,Magnitude,Magnitude Type,Magnitude Error,Magnitude Seismic Stations,Azimuthal Gap,Horizontal Distance,Horizontal Error,Root Mean Square,ID,Source,Location Source,Magnitude Source,Status
+2021-05-01T01:27:27.588Z,13:44:18,38.2296,141.6646,Earthquake,47.3,4.8,,6.8,mww,0.066,,,,,0.96,us7000dz5t,us,us,us,reviewed
+2021-03-20T09:09:43.966Z,11:29:49,38.4515,141.6477,Earthquake,43,1.9,,7,mww,0.045,,,,,0.75,us7000dl6y,us,us,us,reviewed
+2021-02-13T14:07:49.797Z,18:05:58,37.7265,141.7751,Earthquake,43.98,2.8,,7.1,mww,0.036,,,,,0.94,us6000dher,us,us,us,reviewed
+2020-12-20T17:23:22.668Z,18:49:43,40.8667,142.5814,Earthquake,35,1.9,,6.3,mww,0.041,,,,,1.07,us7000csqe,us,us,us,reviewed
+2020-09-12T02:44:11.224Z,13:32:50,38.7482,142.2446,Earthquake,34,1.7,,6.1,mww,0.057,,,,,0.97,us7000bm9m,us,us,us,reviewed
+2020-04-19T20:39:05.639Z,13:36:32,38.8953,142.0049,Earthquake,38,1.7,,6.3,mww,0.05,,,,,1.18,us7000903m,us,us,us,reviewed
+2019-08-04T10:23:03.726Z,13:32:25,37.7594,141.6031,Earthquake,38,1.9,,6.3,mww,0.071,,,,,0.78,us600050if,us,us,us,reviewed
